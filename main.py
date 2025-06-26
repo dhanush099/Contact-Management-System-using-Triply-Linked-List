@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-#tkinter library for UI
+# tkinter library for UI
 
 class ContactNode:
     def __init__(self, name, phone_number):
